@@ -22,4 +22,4 @@ make -j8
 
 - solve g2o issues by https://github.com/gaoxiang12/slam_in_autonomous_driving/issues/95
 - on host, need to run `xhost +`
-- to run the examples, go to `bin` folder, and run `./motion`
+- to run the examples, in `root dir`, run `./bin/run_imu_integration`
